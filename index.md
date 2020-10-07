@@ -13,11 +13,22 @@ Bullets te ayuda a mantenerte al día de los pagos de todas tus subscripciones. 
 - Pago mensual realizado y total en el listado
 - Widgets básicos para estar al día
 
+Actualmente existen varias aplicaciones que te permite gestionar tus subscripciones. La diferencia es que Bullets consta de una versión gratuíta totalmente funcional y sin límites para las funciones previamente descritas.
+
+
+Bullets está en fase beta y su lanzamiento está por determinar.
 You can use the [editor on GitHub](https://github.com/josavicente/BulletsApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Política de privacidad
+Tus datos son tuyos.
+bullets no posee, almacena, transfiere o vende tus datos.
+Tus datos se almacenan en tu dispositivo y se sincronizan con tu cuenta de iCloud para que nunca pierdas tu información.
+Bullets no usa trackers o herramientas de terceros para analytics.
+Los datos de cambio de las distintas monedas se extraen de exchangeratesapi.io, se sincronizan directamente en tu dispositivo.
+Si lo activas, el reporting de errores de la app se envían a Bullets desde Apple para diagnosticar incidencias y mejorar la app.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
