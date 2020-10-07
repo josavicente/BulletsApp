@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Bullets
+
+Bullets te ayuda a mantenerte al día de los pagos de todas tus subscripciones. Además de incluir una lista extensa de subscripciones conocidas, puedes crear las tuyas propias sin ningún límite, así como personalizarlas según te parezca. Características destacadas:
+- Diseño minimalista
+- Modo oscuro
+- Total personalización
+- Notificaciones de pago con antelación y ahora fijadas por el usuario
+- Conversión de moneda a la moneda elegida por el usuario
+- 32 monedas a elegir
+- Listado extenso de subscripciones conocidas
+- Creación sin límite de subscripciones personalizadas
+- Categorización del tipo de subscripción
+- Pago mensual realizado y total en el listado
+- Widgets básicos para estar al día
 
 You can use the [editor on GitHub](https://github.com/josavicente/BulletsApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
